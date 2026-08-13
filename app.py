@@ -25,7 +25,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("PNG One-Pixel Comparison)
+st.title("PNG One-Pixel Comparison")
 # st.caption(
 #     "Upload one image, convert it to Grayscale or RGB, change exactly one pixel "
 #     "in a copy, save both images as PNG with identical encoder settings, "
